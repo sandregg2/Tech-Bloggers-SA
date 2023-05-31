@@ -7,4 +7,4 @@
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ## Live Heroku Link
-https://drive.google.com/file/d/1Sl74RpXDu14gIA4xE-w-6DHLBk6YDdi_/view
+https://tech-bloggers-sa.herokuapp.com/
