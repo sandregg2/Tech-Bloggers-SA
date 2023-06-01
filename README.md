@@ -9,4 +9,4 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ## Live Heroku Link
 https://tech-bloggers-sa.herokuapp.com/
 ## Screenshot
-![Screenshots](./screenshots/Screenshot 2023-05-31 195013.png)
+![Screenshots](<./screenshots/Screenshot 2023-05-31 195013.png>)
